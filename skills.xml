@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-     <skills> 
+      <skills> 
           <skill1>Postman</skill1> 
                <skill2>Charles</skill2> 
                     <skill3>Fiddler</skill3> 
@@ -14,4 +14,4 @@
                     <skill12>Python</skill12> 
                 <skill13>Json</skill13> 
           <skill14>Xml</skill14> 
-       </skills>
+      </skills>
