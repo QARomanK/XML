@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        /написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата
+<body>
+        <name>Roman</name>
+        <last_name>Kudruavtcev</last_name>
+        <age>33</age>
+        <pat>1</pat>
+        <expected_salary>2000$</expected_salary>
+</body>
+~
+
