@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
+<body>
       <skills> 
           <skill1>Postman</skill1> 
                <skill2>Charles</skill2> 
@@ -16,3 +16,4 @@
                 <skill12>Android Studio</skill13> 
           <skill13>Dev Tools</skill14> 
       </skills>
+</body>
