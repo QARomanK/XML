@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<preferences>
-        <name>Roman</name>
-        <last_name>Kudruavtcev</last_name>
-        <age>33</age>
-        <pat>1</pat>
-        <expected_salary>2000$</expected_salary>
+<body>
+        <preferences>
+                <name>Roman</name>
+                <last_name>Kudruavtcev</last_name>
+                <age>33</age>
+                <pat>1</pat>
+                <expected_salary>2000$</expected_salary>
 </body>
 ~
 
